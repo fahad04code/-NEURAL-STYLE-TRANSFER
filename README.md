@@ -77,3 +77,5 @@ Customize: Edit content_path and style_path in style_transfer.py with your image
 
 ## OUTPUT:-
 
+![Image](https://github.com/user-attachments/assets/b5807e67-97c7-4830-be47-c5a446a4dd09)
+
