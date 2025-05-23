@@ -63,10 +63,9 @@ pip install -r requirements.txt
 
 
 
-Clone and Run:
+Run:
 
 ```
-git clone https://github.com/fahad04code/neural-style-transfer.git
 cd neural-style-transfer
 python style_transfer.py
 
