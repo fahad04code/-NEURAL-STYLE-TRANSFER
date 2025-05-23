@@ -79,3 +79,4 @@ Customize: Edit content_path and style_path in style_transfer.py with your image
 
 ![Image](https://github.com/user-attachments/assets/b5807e67-97c7-4830-be47-c5a446a4dd09)
 
+![Image](https://github.com/user-attachments/assets/2f50df2e-9271-4620-90e3-3d7d8719538f)
