@@ -63,14 +63,14 @@ pip install -r requirements.txt
 
 
 
-Run:
+3. Run:
 
 ```
 python style_transfer.py
 
 ```
 
-Customize: Edit content_path and style_path in style_transfer.py with your image paths. Adjust size or steps for quality vs. speed.
+4. Customize: Edit content_path and style_path in style_transfer.py with your image paths. Adjust size or steps for quality vs. speed.
 
 
 ## OUTPUT:-
