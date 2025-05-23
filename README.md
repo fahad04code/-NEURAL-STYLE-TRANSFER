@@ -72,6 +72,16 @@ python style_transfer.py
 
 4. Customize: Edit content_path and style_path in style_transfer.py with your image paths. Adjust size or steps for quality vs. speed.
 
+## Notes :-
+
+- Memory: Resize images to 64x64 for ~500 MB usage; larger sizes may need ~1.5 GB.
+
+
+- Performance: ~5-10 minutes on CPU for 300 steps.
+
+
+- Future Plans: Support larger images, add CLI for easier use.
+
 
 ## OUTPUT:-
 
