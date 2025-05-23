@@ -66,7 +66,6 @@ pip install -r requirements.txt
 Run:
 
 ```
-cd neural-style-transfer
 python style_transfer.py
 
 ```
