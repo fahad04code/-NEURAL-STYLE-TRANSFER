@@ -135,8 +135,8 @@ def main():
     style_layers = ['conv_1', 'conv_2', 'conv_3', 'conv_4', 'conv_5']
     
     # Image paths (replace with actual paths)
-    content_path = "content.jpg"  # E.g., a landscape photo
-    style_path = "style4.jpg"  # E.g., a starry night painting
+    content_path = "content_image.jpg"  # E.g., a landscape photo
+    style_path = "style_image.jpg"  # E.g., a starry night painting
     
     try:
         # Verify paths
